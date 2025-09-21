@@ -1,4 +1,4 @@
 # git-class
 
 For learning purpose.
-author - thiru vikram
+author - thiru vikram s
